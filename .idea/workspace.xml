@@ -1,21 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5d8b5fa6-b6bc-4c1f-a0d5-3fc1ecca6741" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BeautifulMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YoungPhysicist.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/a2oj-ladder.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/a2oj-ladder/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/a2oj-ladder/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/a2oj-ladder/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/a2oj-ladder/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/a2oj-ladder/YoungPhysicist.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/a2oj-ladder/a2oj-ladder.iml" afterDir="false" />
+    <list default="true" id="5d8b5fa6-b6bc-4c1f-a0d5-3fc1ecca6741" name="Changes" comment="First two problems on ladder">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +44,14 @@
       <option name="presentableId" value="Default" />
       <updated>1659971788205</updated>
     </task>
+    <task id="LOCAL-00001" summary="First two problems on ladder">
+      <created>1659976292565</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1659976292565</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -68,5 +64,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First two problems on ladder" />
+    <option name="LAST_COMMIT_MESSAGE" value="First two problems on ladder" />
   </component>
 </project>
