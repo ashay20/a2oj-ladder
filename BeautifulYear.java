@@ -1,0 +1,2 @@
+public class BeautifulYear {
+}
